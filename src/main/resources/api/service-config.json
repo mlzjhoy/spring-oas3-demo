@@ -1,0 +1,12 @@
+{
+    "artifactId": "spring-swagger-demo",
+    "basePackage": "com.accenture",
+    "apiPackage": "com.accenture.api",
+    "configPackage": "com.accenture.config",
+    "modelPackage": "com.accenture.model",
+    "delegatePattern": "true",
+    "hideGenerationTimestamp": "true",
+    "useBeanValidation": "true",
+    "dateLibrary": "joda",
+    "sourceFolder": "generated-sources/src/main/java"
+}
