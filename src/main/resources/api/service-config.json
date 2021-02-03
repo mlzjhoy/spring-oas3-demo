@@ -7,6 +7,6 @@
     "delegatePattern": "true",
     "hideGenerationTimestamp": "true",
     "useBeanValidation": "true",
-    "dateLibrary": "joda",
+    "dateLibrary": "java8-localdatetime",
     "sourceFolder": "generated-sources/src/main/java"
 }
